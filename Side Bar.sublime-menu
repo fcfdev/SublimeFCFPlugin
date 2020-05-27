@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "FCF",
+        "mnemonic": "FCF",
+        "id": "fcf",
+        "children":
+        [
+            { "command": "fcf_new_template", "caption": "New template", "args":{ "template": "template", "files": [], "dirs": []} },
+            { "command": "fcf_new_template", "caption": "New template file", "args":{ "template": "template-file", "files": [], "dirs": []} },
+            { "command": "fcf_new_template", "caption": "New hooks file", "args":{ "template": "hooks", "files": [], "dirs": []} },
+            { "command": "fcf_new_template", "caption": "New module file", "args":{ "template": "module", "files": [], "dirs": []} },
+            { "command": "fcf_new_template", "caption": "New receive file", "args":{ "template": "receive", "files": [], "dirs": []} },
+            { "command": "fcf_new_template", "caption": "New package", "args":{ "template": "package", "files": [], "dirs": []} },
+        ]
+    }
+]
